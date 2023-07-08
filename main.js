@@ -20,6 +20,7 @@ function addBookToLibrary(author, title, pages) {
 }
 
 addBookToLibrary('Song of Fire and Ice', 'George Martin', 200)
+addBookToLibrary('Second Book', 'George Martin', 200)
 
 
 console.log(myLibrary);
