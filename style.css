@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 20px;
+    height: 150px;
+}
+
+.add-new-book {
+    padding: 8px;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.add-info {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    position: fixed;
+    left: 41.5%;
+    top: 30%;
+}
