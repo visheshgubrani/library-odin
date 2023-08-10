@@ -24,3 +24,4 @@ addBookToLibrary('Second Book', 'George Martin', 200)
 
 
 console.log(myLibrary);
+console.log("test")
